@@ -1,0 +1,12 @@
+name: getcv
+title: getCV
+username: proteowise
+account: proteowise
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12990052
+bundleId: 9259921
+url: https://proteowise.shinyapps.io/getcv/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
